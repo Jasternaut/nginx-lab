@@ -34,5 +34,12 @@ docker-compose up -d --build
 
 📸 Скриншоты работы
 
+<img width="500" src="screenshots/about_success.png"></img>
+<img width="500" src="screenshots/docker_success.png"></img>
+<img width="500" src="screenshots/html_success.png"></img>
+<img width="500" src="screenshots/html_success_2.png"></img>
+<img width="500" src="screenshots/port_success.png"></img>
+<img width="500" src="screenshots/version_success.png"></img>
+
 ✅ Результат
 Сервер в Docker успешно запущен, Nginx отдаёт мою HTML-страницу.
